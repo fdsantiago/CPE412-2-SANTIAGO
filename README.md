@@ -1,3 +1,3 @@
-# DIGITAL-ANALOG-IO
-Fernand D. Santiago - Digital and Analog-IO Exercises in Tinkercad
+# LABORATORY EXERCISES IN MICROPROCESSORS
+Fernand D. Santiago
 
